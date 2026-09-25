@@ -1,0 +1,252 @@
+{
+  "0": {
+    "chemical": {
+      "name": "Copper-based bactericide (Copper Hydroxide)",
+      "dosage": "2.0 - 2.5 g per liter of water",
+      "interval": "Apply every 7-10 days under humid conditions."
+    },
+    "organic": {
+      "name": "Neem oil spray (0.5%) & Bacillus subtilis bio-bactericide",
+      "options": [
+        "Neem oil spray 5ml/L",
+        "Bacillus subtilis WP 2g/L",
+        "Copper octanoate organic spray"
+      ]
+    },
+    "preventive": [
+      "Practice 3-year crop rotation with non-solanaceous crops.",
+      "Use drip irrigation instead of overhead watering to keep leaves dry.",
+      "Use certified disease-free seeds and seedlings."
+    ],
+    "best_practices": [
+      "Promptly remove and destroy infected leaves.",
+      "Sanitize pruning tools with 70% alcohol between plants.",
+      "Maintain adequate plant spacing (45-60 cm) for air circulation."
+    ]
+  },
+  "1": {
+    "chemical": {
+      "name": "Chlorothalonil 75% WP or Mancozeb 75% WP",
+      "dosage": "2.0 g per liter of water",
+      "interval": "Apply every 7-14 days starting at first symptom."
+    },
+    "organic": {
+      "name": "Bio-fungicide containing Trichoderma viride or Copper Octanoate",
+      "options": [
+        "Trichoderma harzianum 5g/L",
+        "Neem oil 5ml/L",
+        "Potassium bicarbonate spray"
+      ]
+    },
+    "preventive": [
+      "Mulch soil surface around plant base to prevent fungal spore splashback.",
+      "Avoid working in wet foliage to prevent spore distribution.",
+      "Select resistant tomato varieties."
+    ],
+    "best_practices": [
+      "Prune lower leaves up to 30 cm from ground level.",
+      "Clear crop residues immediately after harvest.",
+      "Ensure proper nitrogen balance without excess fertilization."
+    ]
+  },
+  "2": {
+    "chemical": {
+      "name": "Metalaxyl + Mancozeb or Cymoxanil + Mancozeb",
+      "dosage": "2.5 g per liter of water",
+      "interval": "Apply immediately at outbreak; repeat every 5-7 days."
+    },
+    "organic": {
+      "name": "Fixed copper spray combined with organic compost tea",
+      "options": [
+        "Copper sulfate / Liquid copper fungicide",
+        "Bio-fungicide Trichoderma viride",
+        "Horsetail extract spray"
+      ]
+    },
+    "preventive": [
+      "Avoid planting near potato fields (common host).",
+      "Provide greenhouse ventilation to keep relative humidity below 85%.",
+      "Implement strict field drainage."
+    ],
+    "best_practices": [
+      "Destroy heavily infected plants immediately by burying or burning.",
+      "Monitor weather forecasts for cool, wet late-blight risk periods.",
+      "Keep canopy dry with drip lines."
+    ]
+  },
+  "3": {
+    "chemical": {
+      "name": "Difenoconazole 25% EC or Chlorothalonil",
+      "dosage": "1.0 ml per liter of water",
+      "interval": "Apply every 10-14 days."
+    },
+    "organic": {
+      "name": "Sulfur dust/spray or Potassium Bicarbonate solution",
+      "options": [
+        "Wettable sulfur 3g/L",
+        "Neem oil emulsion 5ml/L",
+        "Bio-fungicide Bacillus amyloliquefaciens"
+      ]
+    },
+    "preventive": [
+      "Maximize greenhouse airflow using exhaust fans and side vents.",
+      "Keep canopy humidity low by early morning irrigation.",
+      "Space rows generously."
+    ],
+    "best_practices": [
+      "Remove lower yellowing leaves promptly.",
+      "Sterilize greenhouse stakes and wire support systems.",
+      "Avoid high nitrogen application."
+    ]
+  },
+  "4": {
+    "chemical": {
+      "name": "Mancozeb 75% WP or Copper Oxychloride 50% WP",
+      "dosage": "2.5 g per liter of water",
+      "interval": "Apply every 7-10 days during rainy weather."
+    },
+    "organic": {
+      "name": "Liquid copper soap fungicide & bio-control agents",
+      "options": [
+        "Copper octanoate soap spray",
+        "Neem oil 5ml/L",
+        "Compost tea foliar spray"
+      ]
+    },
+    "preventive": [
+      "Apply straw or plastic mulch to cover soil.",
+      "Practice strict 3-year crop rotation.",
+      "Eliminate nightshade weeds around field perimeters."
+    ],
+    "best_practices": [
+      "Remove bottom 4-6 leaves as plant grows.",
+      "Avoid overhead watering.",
+      "Clean tools and boots when moving between plots."
+    ]
+  },
+  "5": {
+    "chemical": {
+      "name": "Abamectin 1.9% EC or Spiromesifen 22.9% SC",
+      "dosage": "0.5 - 1.0 ml per liter of water",
+      "interval": "Apply twice with a 5-7 day gap to disrupt egg hatching cycle."
+    },
+    "organic": {
+      "name": "Insecticidal soap spray, Neem oil (1%), or predatory mites (Phytoseiulus persimilis)",
+      "options": [
+        "Cold-pressed Neem oil 10ml/L",
+        "Potassium salt insecticidal soap",
+        "Predatory mite release"
+      ]
+    },
+    "preventive": [
+      "Maintain optimal soil moisture to reduce dry dust conditions.",
+      "Keep field borders free of broadleaf weeds.",
+      "Spray undersides of leaves with water jet."
+    ],
+    "best_practices": [
+      "Regularly inspect leaf undersides with a hand lens.",
+      "Avoid broad-spectrum chemical insecticides that kill beneficial predatory insects.",
+      "Isolate infested plants."
+    ]
+  },
+  "6": {
+    "chemical": {
+      "name": "Azoxystrobin 23% SC or Chlorothalonil",
+      "dosage": "1.0 ml per liter of water",
+      "interval": "Apply every 10-14 days."
+    },
+    "organic": {
+      "name": "Bacillus subtilis bio-fungicide & Copper octanoate",
+      "options": [
+        "Bacillus subtilis 2g/L",
+        "Copper octanoate spray",
+        "Neem oil spray"
+      ]
+    },
+    "preventive": [
+      "Maintain proper foliage aeration through pruning.",
+      "Use drip irrigation systems.",
+      "Rotate with non-host crops like corn or beans."
+    ],
+    "best_practices": [
+      "Remove symptomatic lower leaves early.",
+      "Maintain balanced potassium and calcium soil nutrients.",
+      "Sanitize equipment."
+    ]
+  },
+  "7": {
+    "chemical": {
+      "name": "Imidacloprid 17.8% SL or Acetamiprid 20% SP (Targeting vector whiteflies)",
+      "dosage": "0.5 ml per liter of water",
+      "interval": "Apply at first whitefly observation."
+    },
+    "organic": {
+      "name": "Yellow sticky traps, Neem oil (1%), and Beauveria bassiana entomopathogenic fungus",
+      "options": [
+        "Yellow sticky trap installation",
+        "Neem oil 10ml/L",
+        "Beauveria bassiana 5g/L"
+      ]
+    },
+    "preventive": [
+      "Install fine insect-proof mesh netting (50-mesh) in greenhouses.",
+      "Use reflective silver mulches to repel whiteflies.",
+      "Plant TYLCV-resistant hybrids."
+    ],
+    "best_practices": [
+      "Routinely monitor yellow sticky traps for whitefly counts.",
+      "Remove virus-infected plants in sealed bags immediately.",
+      "Keep surrounding fields weed-free."
+    ]
+  },
+  "8": {
+    "chemical": {
+      "name": "No chemical cure exists for viral infections; focus on vector control and sanitation.",
+      "dosage": "N/A",
+      "interval": "N/A"
+    },
+    "organic": {
+      "name": "Skim milk spray (10% solution) on hands/tools during pruning to deactivate virus particles.",
+      "options": [
+        "Skim milk solution 100ml/L spray",
+        "Trisodium phosphate (TSP) 10% tool dip",
+        "Neem oil for insect control"
+      ]
+    },
+    "preventive": [
+      "Use certified virus-free seeds.",
+      "Wash hands with soap and water before handling plants (especially smokers, as tobacco carries virus).",
+      "Plant mosaic-resistant varieties."
+    ],
+    "best_practices": [
+      "Immediately rogue (dig up and burn) infected plants.",
+      "Disinfect pruning tools in 10% TSP or bleach between plants.",
+      "Avoid handling plants when wet."
+    ]
+  },
+  "9": {
+    "chemical": {
+      "name": "No chemical treatment needed for healthy plants.",
+      "dosage": "N/A",
+      "interval": "N/A"
+    },
+    "organic": {
+      "name": "Apply organic compost tea or seaweed extract for plant vigor.",
+      "options": [
+        "Liquid seaweed extract 2ml/L",
+        "Vermicompost tea foliar spray",
+        "Bio-fertilizer Azospirillum"
+      ]
+    },
+    "preventive": [
+      "Maintain balanced N-P-K fertilization and regular watering schedule.",
+      "Continue weekly crop monitoring.",
+      "Keep canopy well-ventilated."
+    ],
+    "best_practices": [
+      "Maintain clean weed-free garden beds.",
+      "Ensure adequate sunlight (6-8 hours daily).",
+      "Keep soil mulched for moisture retention."
+    ]
+  }
+}

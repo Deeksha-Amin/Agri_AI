@@ -1,0 +1,22 @@
+# Node & Frontend
+frontend/node_modules/
+frontend/dist/
+frontend/.vite/
+
+# Python & Backend
+backend/__pycache__/
+backend/*/__pycache__/
+backend/*/*/__pycache__/
+backend/uploads/*
+!backend/uploads/.gitkeep
+backend/generated_reports/*
+!backend/generated_reports/.gitkeep
+*.pyc
+.env
+.env.local
+
+# IDE
+.vscode/
+.idea/
+.DS_Store
+make_*.py

@@ -1,0 +1,9 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+  body {
+    @apply bg-[#f8faf8] text-slate-800 min-h-screen flex flex-col selection:bg-emerald-100 selection:text-emerald-900;
+  }
+}

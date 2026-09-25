@@ -1,0 +1,92 @@
+{
+  "0": {
+    "name": "Bacterial Spot",
+    "raw_name": "Tomato___Bacterial_spot",
+    "category": "Bacterial Disease",
+    "affected_part": "Leaf",
+    "symptoms": "Small, dark, water-soaked spots on leaves that turn brown and dry up; premature defoliation.",
+    "cause": "Xanthomonas vesicatoria bacterium, spread by rain splash, overhead irrigation, and contaminated tools.",
+    "crop_impact": "Severe defoliation reduces sun protection, causing fruit sunscald and significant yield reduction."
+  },
+  "1": {
+    "name": "Early Blight",
+    "raw_name": "Tomato___Early_blight",
+    "category": "Fungal Disease",
+    "affected_part": "Leaf",
+    "symptoms": "Concentric target-like dark spots surrounded by yellow halos starting on lower older leaves.",
+    "cause": "Alternaria solani fungus, favored by warm temperatures and high humidity/wet foliage.",
+    "crop_impact": "Causes leaf drop, weakening the plant and reducing total fruit yield and quality."
+  },
+  "2": {
+    "name": "Late Blight",
+    "raw_name": "Tomato___Late_blight",
+    "category": "Fungal Disease",
+    "affected_part": "Leaf",
+    "symptoms": "Large, irregular water-soaked pale green to dark brown lesions with white moldy growth under humid conditions.",
+    "cause": "Phytophthora infestans oomycete pathogen, spreading rapidly in cool, wet weather.",
+    "crop_impact": "Highly destructive; can kill entire fields within days if left unmanaged."
+  },
+  "3": {
+    "name": "Leaf Mold",
+    "raw_name": "Tomato___Leaf_Mold",
+    "category": "Fungal Disease",
+    "affected_part": "Leaf",
+    "symptoms": "Pale green/yellow spots on upper leaf surfaces with velvety olive-green to brown fungal growth underneath.",
+    "cause": "Passalora fulva fungus, common in humid greenhouse or high-density tunnel environments.",
+    "crop_impact": "Leaves wither and drop, reducing photosynthetic capacity and fruit development."
+  },
+  "4": {
+    "name": "Septoria Leaf Spot",
+    "raw_name": "Tomato___Septoria_leaf_spot",
+    "category": "Fungal Disease",
+    "affected_part": "Leaf",
+    "symptoms": "Numerous small circular spots with dark brown margins and greyish-white centers containing tiny black specks.",
+    "cause": "Septoria lycopersici fungus, splashing up from infected soil onto lower leaves during rain or watering.",
+    "crop_impact": "Progressive lower-to-upper defoliation exposing fruit to sunscald."
+  },
+  "5": {
+    "name": "Spider Mites (Two-Spotted)",
+    "raw_name": "Tomato___Spider_mites Two-spotted_spider_mite",
+    "category": "Pest Infestation",
+    "affected_part": "Leaf",
+    "symptoms": "Fine yellow/white stippling on upper leaf surface, delicate webbing on undersides, leaves turn bronze and dry up.",
+    "cause": "Tetranychus urticae mites, thriving in hot, dry, dusty environmental conditions.",
+    "crop_impact": "Rapid population growth causes leaf stippling, leaf drop, and severe plant stunting."
+  },
+  "6": {
+    "name": "Target Spot",
+    "raw_name": "Tomato___Target_Spot",
+    "category": "Fungal Disease",
+    "affected_part": "Leaf",
+    "symptoms": "Small brown water-soaked spots expanding into circular lesions with light brown centers and dark borders.",
+    "cause": "Corynespora cassiicola fungus, encouraged by warm temperatures and prolonged leaf wetness.",
+    "crop_impact": "Causes premature leaf drop and circular necrotic lesions on developing tomato fruit."
+  },
+  "7": {
+    "name": "Tomato Yellow Leaf Curl Virus",
+    "raw_name": "Tomato___Tomato_Yellow_Leaf_Curl_Virus",
+    "category": "Viral Disease",
+    "affected_part": "Leaf",
+    "symptoms": "Severe leaf curling (upward), yellowing margins, bushy stunted plant growth, and flower abortion.",
+    "cause": "Geminivirus transmitted primarily by Bemisia tabaci (whiteflies).",
+    "crop_impact": "Drastically reduces fruit set; plants infected early produce virtually no marketable fruit."
+  },
+  "8": {
+    "name": "Tomato Mosaic Virus",
+    "raw_name": "Tomato___Tomato_mosaic_virus",
+    "category": "Viral Disease",
+    "affected_part": "Leaf",
+    "symptoms": "Light and dark green mosaic/mottling patterns on leaves, leaf distortion, blistering, and fern-like foliage.",
+    "cause": "Tobamovirus spread mechanically through hands, tools, infected seeds, or plant contact.",
+    "crop_impact": "Stunts growth, reduces yield, and causes uneven internal ripening of fruit."
+  },
+  "9": {
+    "name": "Healthy",
+    "raw_name": "Tomato___healthy",
+    "category": "Healthy",
+    "affected_part": "Leaf",
+    "symptoms": "Vibrant green foliage, sturdy stem growth, and absence of necrotic spots, leaf curling, or pest webbing.",
+    "cause": "Optimal plant nutrition, ideal environmental conditions, and proper disease management.",
+    "crop_impact": "High photosynthesizing efficiency leading to maximum crop yield and optimal fruit quality."
+  }
+}
