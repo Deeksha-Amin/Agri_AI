@@ -58,8 +58,10 @@ export const Detection = () => {
             type="fruit"
             title="FRUIT IMAGE"
             description="Upload tomato fruit photo for fruit defect & rot detection."
-            badgeText="YOLOv8 Architecture"
-            modelName="YOLOv8-Ready"
+            // badgeText="YOLOv8 Architecture"
+            // modelName="YOLOv8-Ready"
+            badgeText="YOLO11s Classifier"
+            modelName="YOLO11s (Active)"
             file={images.fruit}
             previewUrl={previews.fruit}
             onSelect={(f) => setImage('fruit', f)}

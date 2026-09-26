@@ -98,12 +98,18 @@ export const Results = () => {
                 status={data.fruit_confidence === "Pending Integration" ? "Integration Pending" : "Not Uploaded"}
                 model="YOLOv8"
               />
-              <ConfidenceBar
+              {/* <ConfidenceBar
                 label="Stem"
                 confidence={data.stem_confidence}
                 status={data.stem_confidence === "Pending Integration" ? "Integration Pending" : "Not Uploaded"}
                 model="YOLOv8"
-              />
+              /> */}
+              <ConfidenceBar
+                label="Stem"
+                confidence={data.stem_confidence}
+                status={data.stem_confidence === "Pending Integration" ? "Integration Pending" : "Analyzed"}
+               model="YOLO11s"
+             />
             </div>
           </div>
 

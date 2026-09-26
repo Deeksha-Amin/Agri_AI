@@ -20,3 +20,5 @@ backend/generated_reports/*
 .idea/
 .DS_Store
 make_*.py
+# Python virtual environment
+.venv/

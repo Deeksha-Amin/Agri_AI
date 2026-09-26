@@ -82,9 +82,11 @@ export const PredictionProvider = ({ children }) => {
       }
 
       if (images.fruit) {
-        setProcessingStep("Running YOLOv8 Fruit Model check...");
+        // setProcessingStep("Running YOLOv8 Fruit Model check...");
+        setProcessingStep("Running YOLO11s Stem Classifier...");
         fruitRes = await predictFruitImage(images.fruit);
       }
+      console.log("STEM IMAGE:", images.stem);
 
       if (images.stem) {
         setProcessingStep("Running YOLOv8 Stem Model check...");
