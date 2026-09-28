@@ -42,10 +42,7 @@ export const Home = () => {
         <div className="max-w-7xl mx-auto relative z-10 grid grid-cols-1 lg:grid-cols-12 gap-12 items-center">
           
           <div className="lg:col-span-7 space-y-6">
-            <div className="inline-flex items-center space-x-2 bg-emerald-800/60 border border-emerald-600/40 text-emerald-200 text-xs font-semibold px-3 py-1.5 rounded-full backdrop-blur-md">
-              <ShieldCheck className="w-4 h-4 text-emerald-400" />
-              <span>IEEE & Final-Year Engineering Research Project</span>
-            </div>
+           
 
             <h1 className="text-3xl sm:text-5xl font-extrabold tracking-tight leading-tight text-white">
               Multi-Part Tomato Disease Detection
@@ -86,16 +83,13 @@ export const Home = () => {
                     <Leaf className="w-10 h-10" />
                   </div>
                   <div className="text-lg font-bold text-white">Tomato Leaf Classifier</div>
-                  <div className="text-xs text-emerald-200">DenseNet121 • 10 Class Accuracy</div>
+           
                   <div className="inline-block bg-emerald-500 text-slate-950 font-bold text-xs px-3 py-1 rounded-full mt-2">
                     Model Online
                   </div>
                 </div>
               </div>
-              <div className="mt-4 flex items-center justify-between text-xs text-slate-300 font-mono">
-                <span>Dataset: 10 Classes</span>
-                <span>Input: 224x224 RGB</span>
-              </div>
+            
             </div>
           </div>
 
